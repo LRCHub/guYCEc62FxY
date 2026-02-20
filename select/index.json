@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HOMESICK CITY NOISE",
+  "base_artist": "YUUKI MIYAKE",
+  "createdAt": "2026-02-20T18:16:08.435333Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOMESICK CITY NOISE",
+      "artist": "YUUKI MIYAKE",
+      "has_synced": false,
+      "path": "select/pl_01_HOMESICK_CITY_NOISE_YUUKI_MIYAKE.txt"
+    }
+  ]
+}
